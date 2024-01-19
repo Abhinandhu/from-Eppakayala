@@ -3,4 +3,4 @@
 # Abhinandhu
 ###### My favourite restaurant is Happy Garden
 
-It's not just a place to eat; it's an experience. The ***cozy ambiance***, friendly staff, and, of course, the mouthwatering dishes keep me coming back.<br>Whether I'm craving ***Chicken Biryani*** or just looking for a comfortable spot to work on my projects, Happy Garden never disappoints. If you happen to be in the area, I highly recommend checking it out. ***Happy coding and happy dining.***
+It's not just a place to eat; it's an experience. The **cozy ambiance**, friendly staff, and, of course, the **mouthwatering dishes** keep me coming back.<br>Whether I'm craving ***Chicken Biryani*** or just looking for a comfortable spot to work on my projects, Happy Garden never disappoints. If you happen to be in the area, I highly recommend checking it out. ***Happy coding and happy dining.***
