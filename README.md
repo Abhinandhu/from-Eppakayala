@@ -28,3 +28,12 @@ Here are some compelling book recommendations that I believe you'll thoroughly e
 | "To Kill a Mockingbird" | Profound exploration of justice and morality      | Harper Lee           |
 | "1984"                  | Dystopian classic examining the dangers of power  | George Orwell        |
 | "The Great Gatsby"      | Captivating tale of the American Dream            | F. Scott Fitzgerald  |
+
+---
+# Favorite Quotes
+
+> "The only way to do great work is to love what you do."* -
+> *Steve Jobs*
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." -
+> *Winston Churchill*
