@@ -16,3 +16,4 @@ It's not just a place to eat; it's an experience. The **cozy ambiance**, friendl
 - IKEA Store
 - Jurassic park
 ---
+Link to My Image -> [My Image link](MyMedia.md)
