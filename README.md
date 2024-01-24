@@ -15,5 +15,6 @@ It's not just a place to eat; it's an experience. The **cozy ambiance**, friendl
 - AZ Shopping Mall
 - IKEA Store
 - Jurassic park
+
+You can find the link to My Image -> [ Image link](MyMedia.md)
 ---
-Link to My Image -> [My Image link](MyMedia.md)
