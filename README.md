@@ -18,3 +18,13 @@ It's not just a place to eat; it's an experience. The **cozy ambiance**, friendl
 
 You can find the link to My Image -> [ Image link](MyMedia.md)
 ---
+# Recommended books to read
+
+Here are some compelling book recommendations that I believe you'll thoroughly enjoy delving into. Each recommendation is carefully selected for thought-provoking themes. Whether you're an avid reader or just starting, these books offer a captivating literary experience. Take a look at the table below for details on the recommended books, including their titles, reasons to read them, and the talented authors behind each masterpiece.
+
+| Name                    | Reason to Recommend                               | Author               |
+|-------------------------|---------------------------------------------------|----------------------|
+| "The Alchemist"         | Philosophical journey with universal life lessons | Paulo Coelho         |
+| "To Kill a Mockingbird" | Profound exploration of justice and morality      | Harper Lee           |
+| "1984"                  | Dystopian classic examining the dangers of power  | George Orwell        |
+| "The Great Gatsby"      | Captivating tale of the American Dream            | F. Scott Fitzgerald  |
