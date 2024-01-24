@@ -37,3 +37,14 @@ Here are some compelling book recommendations that I believe you'll thoroughly e
 
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." -
 > *Winston Churchill*
+---
+# SQL Code Fencing
+
+```
+SELECT SUM(column_name)
+FROM table_name
+WHERE condition;
+```
+The SQL snippet calculates the sum of values in a specific column (column_name) from a table (table_name) based on a specified condition in the WHERE clause. The result is the total sum of column values meeting the given condition
+
+check the [SQL code snippet](https://code.pieces.app/collections/sql)
