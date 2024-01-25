@@ -47,4 +47,4 @@ WHERE condition;
 ```
 The SQL snippet calculates the sum of values in a specific column (column_name) from a table (table_name) based on a specified condition in the WHERE clause. The result is the total sum of column values meeting the given condition
 
-check the [SQL code snippet](https://code.pieces.app/collections/sql)
+check the URL -> [SQL code snippet](https://code.pieces.app/collections/sql)
